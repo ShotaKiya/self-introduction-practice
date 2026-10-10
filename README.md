@@ -13,4 +13,4 @@ HTMLの構造を確認し、振り返りながら学習を行った。
 
 ##動作確認
 VSCodeで統合ブラウザで確認を実施。##追記
-seif-introduction copy.htmlにて再度修正箇所を修繕する。
+seif-introduction2.htmlにて再度修正箇所を修繕する。
